@@ -76,6 +76,8 @@
 
 
 ### Design decisions 📉
+![hld](https://github.com/ashleshshenoy/dash-streaming-application/assets/73695378/ba976a98-3d7d-4db6-9208-b154b8180d29)
+
 <p>
 <b> why are SNS and SQS Services used?</b> <br>
 Utilized for decoupling services and ensuring reliability in case of failures. SNS fans out notifications to SQS and AWS Lambda, allowing SQS to be polled for metadata of ready-to-process videos.
