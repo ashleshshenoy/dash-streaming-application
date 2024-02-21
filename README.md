@@ -13,6 +13,8 @@
     <ul>
       <li>
           Express
+      </li>
+       <li>
           Mongodb
       </li>
     </ul>
@@ -43,6 +45,36 @@
       </li>
     </ul>
   </p>
+
+## Feature highlight
+
+<ul>
+  <li>
+    Oauth2.0 Google social login for seamless authentication
+  </li>
+ <li>
+    Decoupled Architecture using SNS, SQS and lambda
+    
+  </li>
+   <li>
+    Resource efficient step scaling of EC2 auto scaling group with Cloudwatch metrics.
+    
+  </li>
+   <li>
+    Transcoding of videos into multiple bit rate chunks to enable MPEG-DASH based Adoptive bitrate streaming through FFMPEG.
+    
+  </li>
+   <li>
+    low latency content delivery using Cloudfront 
+    
+  </li>
+   <li>
+    Secure credentials mangement using Parameter store, permission access using IAM roles.
+    
+  </li>
+</ul>
+
+
 
 ## Install
 
