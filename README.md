@@ -96,24 +96,15 @@ Selected for resource efficiency and scalability. EC2 is Ideal for longer proces
 Chosen to deliver static content with lower latency to users across diverse geographical locations, enhancing global accessibility and user experience.
 </p>
 
-## Install
 
-```sh
-adf
-```
 
-## Usage
-
-```sh
-asdasd
-```
 
 ## Author
 
 👤 **ashlesh shenoy**
 
 * Github: [@Ashlesh shenoy](https://github.com/ashleshshenoy)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/))
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/](https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/))
 
 ## 🤝 Contributing
 
