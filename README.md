@@ -7,6 +7,43 @@
 
 ### ✨ [Demo](demo.youtube)
 
+## Techologies used 
+  <p>
+      Backend : 
+    <ul>
+      <li>
+          Express
+          Mongodb
+      </li>
+    </ul>
+  </p>
+  <p>
+    Amazon web services used :
+    <ul>
+      <li>
+        S3 buckets 
+      </li>
+      <li>
+        Simple Notification service (SNS)
+      </li>
+      <li>
+        Simple Queue Service (SQS)
+      </li>
+      <li>
+        Lamda function
+      </li>
+      <li>
+        Cloudwatch
+      </li>
+      <li>
+        EC2, Custom AMI, Launch Template, Auto scaling group
+      </li>
+      <li>
+        Cloudfront
+      </li>
+    </ul>
+  </p>
+
 ## Install
 
 ```sh
@@ -35,5 +72,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
