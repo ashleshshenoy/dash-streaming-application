@@ -112,8 +112,8 @@ asdasd
 
 👤 **ashlesh shenoy**
 
-* Github: [@Ashlesh shenoy](https://github.com/Ashlesh shenoy)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/)
+* Github: [@Ashlesh shenoy](https://github.com/ashleshshenoy)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/))
 
 ## 🤝 Contributing
 
