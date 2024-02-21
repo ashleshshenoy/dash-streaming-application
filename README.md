@@ -77,22 +77,22 @@
 
 ### Design decisions 📉
 <p>
-<b> why are SNS and SQS Services used?</b> 
+<b> why are SNS and SQS Services used?</b> <br>
 Utilized for decoupling services and ensuring reliability in case of failures. SNS fans out notifications to SQS and AWS Lambda, allowing SQS to be polled for metadata of ready-to-process videos.
 </p>
 
 <p>
-<b>Why use lambda? </b> 
+<b>Why use lambda? </b>  <br>
 Employed to notify the metadata server upon successful video uploads via S3 pre-signed URLs. Lambda triggers an API call to a specific URL, facilitating seamless integration and asynchronous processing.
 </p>
 
 <p>
-<b>Why EC2 Autoscaling groups and not lambda ?</b> 
+<b>Why EC2 Autoscaling groups and not lambda ?</b>  <br>
 Selected for resource efficiency and scalability. EC2 is Ideal for longer processes with higher computational and memory requirements when compared to Lambda. CloudWatch alarms trigger EC2 autoscaling groups to scale in or out based on SQS queue size. Additionally, EC2 instances are safeguarded with termination protection during processing to prevent accidental termination during scale-in events.
 </p>
 
 <p>
-<b> Why serve files from Cloudfront and not s3 ?</b>  
+<b> Why serve files from Cloudfront and not s3 ?</b>   <br>
 Chosen to deliver static content with lower latency to users across diverse geographical locations, enhancing global accessibility and user experience.
 </p>
 
@@ -112,7 +112,6 @@ asdasd
 
 👤 **ashlesh shenoy**
 
-* Website: https://www.linkedin.com/in/ashlesh-shenoy/
 * Github: [@Ashlesh shenoy](https://github.com/Ashlesh shenoy)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ashlesh-shenoy\/)
 
